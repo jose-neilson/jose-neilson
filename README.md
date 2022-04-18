@@ -11,6 +11,8 @@ I'm José Neilson, a FullStack Developer who has been studying since high school
 <a href="https://wa.me/5585991890275" alt="WhatsApp" target="_blank">
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5584981430120"/>
 </a>
+<br>
+<img alt="" width="400" src="https://github.com/jose-neilson/jose-neilson/blob/main/github-metrics.svg" alt=""></img>
 
 
 <!--
